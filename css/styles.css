@@ -1,5 +1,29 @@
 body{
+    width:900px;
     font-family: sans-serif;
-    background-color: beige;
+    
     padding:50px;
+}
+
+h1{
+    position:fixed;
+    top:0px;
+    left:50px
+    background-color:azure;
+    z-index:50;
+}
+
+.intro{
+    width:150px;
+    float:left;
+    margin:10px;
+    padding:5px;
+    background-color: #efefef;
+    text-align: center;
+    
+}
+
+h2{
+   color:coral;
+    
 }
